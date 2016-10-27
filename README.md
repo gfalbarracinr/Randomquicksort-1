@@ -1,4 +1,2 @@
 # Randomquicksort-1
-''''''
-swmm
-'''''
+Random quicksort with a media distribution plot 
